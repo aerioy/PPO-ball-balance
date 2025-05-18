@@ -1,4 +1,4 @@
-This project simulates a platform with a rolling ball. Uses Proximal Policy Optimization (PPO) algorithm. the policy controls normal vector to the platform to adjust orientation. the goal is to keep the ball from falling off of the platform. it uses the pygame library, which supports 2D graphics. the 3D implementation is custom, making use of perspective projection to project points into a 2d viewing plane, in order to create a realistic looking 3D reperesentation.
+This project simulates a platform with a rolling ball. It uses the Proximal Policy Optimization (PPO) algorithm.  The policy controls normal vector to the platform to adjust orientation.  The goal is to keep the ball from falling off of the platform.  It uses the pygame library, which supports 2D graphics.  The 3D implementation is custom, making use of perspective projection to project points into a 2D viewing plane, in order to create a realistic looking 3D reperesentation.
 
 Instructions:
 - Use arrow keys to look around
